@@ -1,5 +1,5 @@
 # Weekly Nerds
-In deze repository staat de documentatie van de weekly nerds. Elk gastcollege of bezoek is gedocumenteerd in het desbetreffende hoofdstuk. 
+In deze repository staat de documentatie van de weekly nerds. Elk gastcollege of bezoek is gedocumenteerd in het desbetreffende hoofdstuk. De documentatie is gedocumenteerd in de [Wiki](https://github.com/stefanradouane/weeklynerds).
 
 ## Table of contents
 
@@ -8,4 +8,3 @@ In deze repository staat de documentatie van de weekly nerds. Elk gastcollege of
 - Lvl 30 Wizards
 - JS bluetooth
 - NXT Museum bezoek.
-
